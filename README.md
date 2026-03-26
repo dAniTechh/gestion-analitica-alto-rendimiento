@@ -2,8 +2,6 @@
 
 
 
-# Motor Avanzado de Base de Datos: Analytics y Rendimiento Deportivo
-
 ##  Descripción del Proyecto
 Este proyecto consiste en el diseño y desarrollo de una base de datos relacional avanzada orientada al alto rendimiento deportivo. A diferencia de las aplicaciones de fitness convencionales, esta arquitectura está diseñada para soportar metodologías de entrenamiento complejas y asimétricas, permitiendo registrar desde esquemas de hipertrofia tradicional hasta protocolos de fuerza máxima con micro-descansos.
 
